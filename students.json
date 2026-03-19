@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fb219e72-22be-4ea5-9707-71671cfc5179",
+    "name": "Riya",
+    "email": "riya@email.com",
+    "course": "Infomation Science & Engineering",
+    "year": 2,
+    "createdAt": "2026-03-19T04:01:02.301Z",
+    "updatedAt": "2026-03-19T04:01:02.301Z"
+  },
+  {
+    "id": "c02f7a64-2eef-48c0-8030-52956a5b0a6c",
+    "name": "Pavish S",
+    "email": "pavish@email.com",
+    "course": "Electronics and Communication Engineering",
+    "year": 2,
+    "createdAt": "2026-03-19T04:09:20.499Z",
+    "updatedAt": "2026-03-19T04:09:20.499Z"
+  }
+]
